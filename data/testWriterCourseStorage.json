@@ -1,0 +1,14 @@
+{"courseList": [
+    {
+        "courseName": "CPSC 210",
+        "courseCredits": 4,
+        "counter": 1,
+        "courseSeats": 4
+    },
+    {
+        "courseName": "CPSC 121",
+        "courseCredits": 4,
+        "counter": 1,
+        "courseSeats": 3
+    }
+]}

@@ -1,0 +1,32 @@
+{"studentList": [
+    {
+        "password": "testpass1",
+        "name": "testStudent1",
+        "courseRegistered": [
+            {
+                "courseName": "CPSC 210",
+                "courseCredits": 4,
+                "counter": 1,
+                "courseSeats": 4
+            },
+            {
+                "courseName": "CPSC 121",
+                "courseCredits": 4,
+                "counter": 1,
+                "courseSeats": 3
+            }
+        ],
+        "email": "testemail1"
+    },
+    {
+        "password": "testpass2",
+        "name": "testStudent2",
+        "courseRegistered": [{
+            "courseName": "CPSC 210",
+            "courseCredits": 4,
+            "counter": 1,
+            "courseSeats": 4
+        }],
+        "email": "testemail2"
+    }
+]}
